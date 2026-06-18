@@ -1,0 +1,148 @@
+## Page 1
+
+Attack and Defense
+
+## Page 2
+
+
+
+## Page 3
+
+Attack
+
+## Page 4
+
+
+
+## Page 5
+
+不被发现
+
+## Page 6
+
+L-infinity更容
+易捕获变化
+
+## Page 7
+
+
+
+## Page 8
+
+
+
+## Page 9
+
+
+
+## Page 10
+
+
+
+## Page 11
+
+
+
+## Page 12
+
+
+
+## Page 13
+
+
+
+## Page 14
+
+用了gradient 
+attack的方式
+
+## Page 15
+
+
+
+## Page 16
+
+
+
+## Page 17
+
+
+
+## Page 18
+
+
+
+## Page 19
+
+
+
+## Page 20
+
+
+
+## Page 21
+
+Metric为accuracy。
+
+## Page 22
+
+通用的
+万能的
+攻击
+
+## Page 23
+
+输出效果
+变成了数
+方块。
+
+## Page 24
+
+
+
+## Page 25
+
+
+
+## Page 26
+
+
+
+## Page 27
+
+
+
+## Page 28
+
+Defense
+
+## Page 29
+
+
+
+## Page 30
+
+
+
+## Page 31
+
+利用平滑化
+来进行防御
+
+## Page 32
+
+
+
+## Page 33
+
+
+
+## Page 34
+
+并修补
+让模型同
+时学会哪
+些是不好
+的
+
+## Page 35

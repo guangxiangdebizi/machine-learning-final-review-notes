@@ -1,0 +1,78 @@
+## Page 1
+
+Stable Diffusion
+
+## Page 2
+
+噪声
+中间产物
+图片的压缩版本
+扩散模型
+Noise Predictor
+
+## Page 3
+
+
+
+## Page 4
+
+
+
+## Page 5
+
+
+
+## Page 6
+
+
+
+## Page 7
+
+Diffusion Model
+
+## Page 8
+
+1.特征提取
+2.拟合两个高斯分布
+3.计算这两个高斯分布之
+间的Fréchet 距离。
+
+## Page 9
+
+
+
+## Page 10
+
+
+
+## Page 11
+
+“中间产物”是小图
+
+## Page 12
+
+“中间产物”是
+
+## Page 13
+
+
+
+## Page 14
+
+Stable Diffusion 是一种 latent diffusion model；其中的核心生成网
+络 U-Net 通常就是 noise predictor，也可以称为 denoising network 
+或 denoise module，但它不是整个 Stable Diffusion 系统的全部。
+
+## Page 15
+
+
+
+## Page 16
+
+
+
+## Page 17
+
+
+
+## Page 18

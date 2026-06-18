@@ -1,0 +1,148 @@
+## Page 1
+
+Semi-supervised
+Learning
+
+## Page 2
+
+传导学习
+归纳学习
+
+## Page 3
+
+
+
+## Page 4
+
+
+
+## Page 5
+
+
+
+## Page 6
+
+Semi-supervised
+Learning
+for Generative Model
+
+## Page 7
+
+
+
+## Page 8
+
+
+
+## Page 9
+
+
+
+## Page 10
+
+
+
+## Page 11
+
+
+
+## Page 12
+
+
+
+## Page 13
+
+
+
+## Page 14
+
+
+
+## Page 15
+
+穷举灰色各个
+点属于各种类
+型的可能。
+
+## Page 16
+
+Semi-supervised
+Learning
+Smoothness Assumption
+近朱者赤，近墨者黑 
+“You are known by the company you keep”
+
+## Page 17
+
+虽然x2和x3离
+的很近，但x1
+和x2之间有高
+密度路径，x2
+和x3之间没有
+高密度路径。
+
+## Page 18
+
+
+
+## Page 19
+
+
+
+## Page 20
+
+
+
+## Page 21
+
+
+
+## Page 22
+
+
+
+## Page 23
+
+GRBF可以帮
+助让两个相近
+的点相似度值
+更大一些，两
+个稍微远一点
+的相似度值掉
+很多，更容易
+捕获中间有高
+密度路径的两
+个点的相似度
+关系。
+
+## Page 24
+
+数据点需要更
+多一些，否则
+中间的连接会
+断掉。
+
+## Page 25
+
+自己算一下S=0.5
+和S=3分别是怎么
+算出来的。
+
+## Page 26
+
+
+
+## Page 27
+
+对smooth的要求
+可以加在模型的任
+一地方。
+
+## Page 28
+
+Semi-supervised
+Learning
+Better Representation
+去芜存菁，化繁为简
+
+## Page 29

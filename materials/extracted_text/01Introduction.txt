@@ -1,0 +1,85 @@
+## Page 1
+
+
+
+## Page 2
+
+机器学习就是自动找函数
+
+## Page 3
+
+回归 Regression
+二分类
+Binary Classification
+多分类
+Multi-class Classification
+想要找什么功能的函数
+生成
+Generation
+翻译：生成句子
+生成二次元图片
+
+## Page 4
+
+怎么告诉机器你想要找什么功能的函数
+监督学习 Supervised Learning
+
+## Page 5
+
+函数的Loss
+
+## Page 6
+
+机器找Loss最低的函数
+
+## Page 7
+
+
+
+## Page 8
+
+
+
+## Page 9
+
+
+
+## Page 10
+
+机器怎么找到你想要的函数
+限定范围：
+Linear?
+Network?
+
+## Page 11
+
+扩展的机器学习
+
+## Page 12
+
+
+
+## Page 13
+
+肉眼看不到的noise
+
+## Page 14
+
+大
+小
+
+## Page 15
+
+异常检测
+
+## Page 16
+
+迁移学习
+
+## Page 17
+
+元学习
+
+## Page 18
+
+终身学习 Lifelong Learning

@@ -1,0 +1,120 @@
+## Page 1
+
+Deep Learning
+
+## Page 2
+
+
+
+## Page 3
+
+
+
+## Page 4
+
+
+
+## Page 5
+
+
+
+## Page 6
+
+
+
+## Page 7
+
+自己算一下这个过程，看看自己能否算出长方形框里的数字
+
+## Page 8
+
+
+
+## Page 9
+
+
+
+## Page 10
+
+
+
+## Page 11
+
+
+
+## Page 12
+
+
+
+## Page 13
+
+神经网络是
+一连串的
+Matrix 
+Operetion
+
+## Page 14
+
+
+
+## Page 15
+
+
+
+## Page 16
+
+Input是256维
+Output是10维
+
+## Page 17
+
+
+
+## Page 18
+
+需要自己设计有多少个
+layer，每层layer有多
+少个neuron
+
+## Page 19
+
+
+
+## Page 20
+
+
+
+## Page 21
+
+
+
+## Page 22
+
+
+
+## Page 23
+
+
+
+## Page 24
+
+
+
+## Page 25
+
+再来一个sample时，继续在
+原有参数基础上继续更新
+
+## Page 26
+
+工具包
+
+## Page 27
+
+
+
+## Page 28
+
+
+
+## Page 29

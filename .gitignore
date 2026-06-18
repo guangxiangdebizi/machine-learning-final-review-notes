@@ -1,0 +1,15 @@
+# raw source materials
+PPT/
+PPT.zip
+*.pdf
+*.ppt
+*.pptx
+
+# root teacher transcripts / private notes
+/*.txt
+
+# local/editor
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp

@@ -1,0 +1,132 @@
+## Page 1
+
+Network Compression
+
+## Page 2
+
+
+
+## Page 3
+
+
+
+## Page 4
+
+Network Pruning
+
+## Page 5
+
+
+
+## Page 6
+
+
+
+## Page 7
+
+小模型比较难train
+
+## Page 8
+
+
+
+## Page 9
+
+
+
+## Page 10
+
+
+
+## Page 11
+
+
+
+## Page 12
+
+Knowledge Distillation
+
+## Page 13
+
+
+
+## Page 14
+
+模型压缩：大幅
+降低模型体积和
+推理成本。把 N 
+个大模型的集合
+压缩成一个小模
+型。
+
+## Page 15
+
+
+
+## Page 16
+
+Parameter Quantization
+
+## Page 17
+
+
+
+## Page 18
+
+
+
+## Page 19
+
+用附近的二
+值权重更新
+方向来指导
+实际权重的
+更新方向。
+
+## Page 20
+
+Architecture Design
+
+## Page 21
+
+参数量：N*M
+参数量：(M+N)*K, K可以设置小一些
+
+## Page 22
+
+
+
+## Page 23
+
+
+
+## Page 24
+
+Step
+Step
+
+## Page 25
+
+
+
+## Page 26
+
+
+
+## Page 27
+
+Dynamic Computation
+
+## Page 28
+
+
+
+## Page 29
+
+
+
+## Page 30
+
+
+
+## Page 31

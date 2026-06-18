@@ -1,0 +1,167 @@
+## Page 1
+
+Explainable/Interpretable 
+Machine Learning
+科学的尽头是玄学吗？
+
+## Page 2
+
+
+
+## Page 3
+
+• 用机器来协助判断履历
+具体能力？还是性别？
+• 用机器来判断犯人是否可以假释
+具体罪证？还是肤色？
+• 金融相关的决策常常依法需要提供理由
+为什么拒绝了这个人的贷款？
+• 模型诊断：到底机器学到了什么
+不能只看正确率吗？想想神马汉斯的故事
+
+## Page 4
+
+对不同人要有不同的解释
+reliable.
+
+## Page 5
+
+削足适履
+
+## Page 6
+
+但只有决策树是不够的
+
+## Page 7
+
+
+
+## Page 8
+
+
+
+## Page 9
+
+
+
+## Page 10
+
+
+
+## Page 11
+
+显著性
+扰动
+
+## Page 12
+
+
+
+## Page 13
+
+
+
+## Page 14
+
+
+
+## Page 15
+
+
+
+## Page 16
+
+
+
+## Page 17
+
+是透明背景
+JPEG是黑色背景
+乌龙！！
+
+## Page 18
+
+
+
+## Page 19
+
+
+
+## Page 20
+
+GLOBAL EXPLANATION:
+EXPLAIN THE WHOLE MODEL
+ 
+Question: What do you think a “cat” looks like?
+
+## Page 21
+
+
+
+## Page 22
+
+数值
+比如图片上
+只有数字1，
+那么R(x)就
+是稀疏的，
+加和起来也
+不大。
+
+## Page 23
+
+
+
+## Page 24
+
+
+
+## Page 25
+
+
+
+## Page 26
+
+USING A MODEL TO EXPLAIN 
+ANOTHER 
+Some models are easier to Interpret. 
+Using interpretable model to mimic 
+uninterpretable models.
+
+## Page 27
+
+
+
+## Page 28
+
+
+
+## Page 29
+
+
+
+## Page 30
+
+
+
+## Page 31
+
+
+
+## Page 32
+
+
+
+## Page 33
+
+
+
+## Page 34
+
+
+
+## Page 35
+
+
+
+## Page 36
