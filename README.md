@@ -6,6 +6,7 @@
 
 - `review_notes/机器学习期末总复习.md`：完整总复习版
 - `review_notes/机器学习期末章节考场版.md`：按章节、带例题和计算的考场版
+- `review_notes/机器学习期末计算题扩展精讲版.md`：计算模块统一拆解、多角度例题、Mermaid 网络图与综合自测
 - `review_notes/机器学习期末考场速记版.md`：极简速记版
 - `review_notes/chapters/`：分章节笔记
 - `materials/`：从课程资料整理出的辅助文本 / 中间材料
